@@ -3,10 +3,6 @@
 ## Box Information
 - **Name:** DarkZero
 - **Difficulty:** Hard
-- **OS:** Windows (Active Directory)
-- **Release Date:** October 2025
-- **Current Date:** February 18, 2026
-
 ---
 
 ## Table of Contents
